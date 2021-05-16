@@ -1,6 +1,8 @@
 # E-Commerce-Back-End
 
-## Description
+An e-commerce site backend that provides store owners the ability to update products, product tags, and categories in their store database.
+
+## Overview
 
 This application represents the back end of an e-commerce site. A working Express.js API was configured to use Sequelize to interact with a MySQL database holding seeded store item data. Within the application, you're able to run various CRUD operations with the database. It is intended to create quick and easy interactions with an e-commerce database for the owner and their clients.
 
